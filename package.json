@@ -1,0 +1,16 @@
+{
+    "name": "aijs",
+    "version": "0.0.0",
+    "description": "A collection of algorithms for Artificial Intelligence in node and the browser.",
+    "main": "build/index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "type": "module",
+    "keywords": [
+        "ai",
+        "ml"
+    ],
+    "author": "Orville Daley",
+    "license": "ISC"
+}
